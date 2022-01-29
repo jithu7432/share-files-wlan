@@ -1,5 +1,5 @@
 # Share-Files-Wlan
-Host a file to your wireless network, so that others using the same network can download.
+Host a file to your wireless network, so that others using the same network can download via a QR.
 
 The code generates a QR code and a link, which you can share with others, or yourself.
 
